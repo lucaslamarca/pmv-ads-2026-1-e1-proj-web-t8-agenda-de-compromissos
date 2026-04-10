@@ -7,14 +7,9 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 [Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
 ## Protótipo
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. [Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).]
+Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento.
 
 ### Protótipo de baixa fidelidade
 
@@ -24,12 +19,44 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 [Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
 >- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
 >> - [Figma](https://www.figma.com/)
 
+
+<figure> 
+<img width="1119" height="632" alt="image" src="https://github.com/user-attachments/assets/69b0a1a9-0f33-4a89-af1d-16033b980bc6" />
+
+    <figcaption>Figura 2 - Estrutura padrão do site
+</figure> 
+<hr>
+
+
+<h3><b>Tela - Login</b></h3>
+<p>A tela de Login page apresenta um método de autenticação para acessar a sua agenda.</p>
+  
+<img width="994" height="561" alt="image" src="https://github.com/user-attachments/assets/001249a6-da94-49ad-8c22-3734479349a9" />
+
+<figure> 
+  <figcaption>Figura 3 - Tela Login page
+</figure> 
+<hr>
+<h3><b>Tela - Cadastro</b></h3>
+<p>A tela de Cadastro realiza um método de inscrição em nosso site de agendas.</p>
+  
+<img width="999" height="562" alt="image" src="https://github.com/user-attachments/assets/ba8d7bff-6fd7-4469-9fb4-e343e950a0eb" />
+
+<figure> 
+  <figcaption>Figura 3 - Tela Cadastro page
+</figure> 
+<hr>
+<h3><b>Tela - Alterar Senha</b></h3>
+<p>A tela de Alterar Senha realiza um método de redefinição de senha.</p>
+  
+<img width="1001" height="564" alt="image" src="https://github.com/user-attachments/assets/57bca382-f13e-42f9-80c8-91e742a3603b" />
+
+
+<figure> 
+  <figcaption>Figura 3 - Alterar Senha
+</figure>
 
 
